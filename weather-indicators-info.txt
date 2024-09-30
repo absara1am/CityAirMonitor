@@ -1,0 +1,21 @@
+For an app focused on reporting the air quality of a city, the most important fields would be:
+
+PM2.5: PM2.5 is one of the most critical air quality indicators, as it refers to fine particulate matter that can penetrate deeply into the lungs and cause health issues.
+
+PM10: Similar to PM2.5, PM10 also represents particulate matter but is slightly larger. Monitoring this is important for understanding broader air pollution.
+
+NO2 (Nitrogen dioxide): NO2 is a significant pollutant that can affect respiratory health. It's often associated with traffic emissions.
+
+O3 (Ozone): Ground-level ozone is harmful to human health, especially for people with respiratory conditions.
+
+US-EPA Index: This standardized index provides a clear and concise measure of overall air quality based on multiple pollutants.
+
+CO (Carbon Monoxide): While less critical than PM2.5 or NO2, CO is still an important measure, especially in areas with high vehicle emissions.
+
+The other fields, like SO2 and gb-defra-index, are also useful, but the ones listed above are most critical for a general air quality app.
+
+
+
+
+
+
